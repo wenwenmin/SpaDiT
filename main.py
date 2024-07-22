@@ -48,7 +48,7 @@ warnings.filterwarnings("ignore")
 parser = argparse.ArgumentParser(description='manual to this script')
 parser.add_argument("--sc_data", type=str, default='_sc.h5ad')
 parser.add_argument("--st_data", type=str, default='_st.h5ad')
-parser.add_argument("--document", type=str, default='dataset45_ML')
+parser.add_argument("--document", type=str, default='dataset_ML')
 parser.add_argument("--device", type=str, default='cuda:0')
 parser.add_argument("--batch_size", type=int, default=64)  # 2048
 parser.add_argument("--hidden_size", type=int, default=256)  # 512
