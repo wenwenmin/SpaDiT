@@ -48,3 +48,9 @@ Xiaoyu Li, Fangfang Zhu, and Wenwen Min. "SpaDiT: Diffusion Transformer for Spat
 </tbody>
 </table>
 
+## Contact details
+
+lixiaoyu@mail.ynu.edu.cn
+
+wenwen.min@qq.com
+
