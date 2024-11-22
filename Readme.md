@@ -38,17 +38,36 @@ python evaluate.py --model_path models/best_model.pth --data_path data/test_data
 
 ```
 
-## Cite
-<table class="docutils footnote" frame="void" id="id2" rules="none">
-<colgroup><col class="label" /><col /></colgroup>
-<tbody valign="top">
-<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
-Xiaoyu Li, Fangfang Zhu, and Wenwen Min. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." arXiv preprint arXiv:2407.13182 (2024).
-</td></tr>
-</tbody>
-</table>
+
 
 ## Contact details
 
 lixiaoyu@mail.ynu.edu.cn and wenwen.min@qq.com
 
+
+
+### Citing
+
+## Cite
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
+Xiaoyu Li, Fangfang Zhu, and Wenwen Min. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." Briefings in Bioinformatics (2024).
+</td></tr>
+</tbody>
+</table>
+
+<p>The corresponding BiBTeX citation are given below:</p>
+<div class="highlight-none"><div class="highlight"><pre>
+@article{spadit,
+  title={SpaDiT: diffusion transformer for spatial gene expression prediction using scRNA-seq},
+  author={Li, Xiaoyu and Zhu, Fangfang and Min, Wenwen},
+  journal={Briefings in Bioinformatics},
+  volume={25},
+  number={6},
+  pages={bbae571},
+  year={2024},
+  publisher={Oxford University Press}
+}
+</pre></div>
