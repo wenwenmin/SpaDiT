@@ -42,8 +42,7 @@ python evaluate.py --model_path models/best_model.pth --data_path data/test_data
 
 ## Contact details
 
-lixiaoyu@mail.ynu.edu.cn and wenwen.min@qq.com
-
+If you have any questions, please contact lixiaoyu@mail.ynu.edu.cn and wenwen.min@qq.com
 
 
 ## Citing
