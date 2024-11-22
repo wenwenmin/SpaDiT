@@ -46,9 +46,7 @@ lixiaoyu@mail.ynu.edu.cn and wenwen.min@qq.com
 
 
 
-### Citing
-
-## Cite
+## Citing
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
