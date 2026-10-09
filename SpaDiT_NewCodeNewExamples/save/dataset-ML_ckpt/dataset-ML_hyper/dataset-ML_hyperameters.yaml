@@ -1,0 +1,16 @@
+batch_size: 64
+depth: 16
+device: cuda:0
+diffusion_step: 100
+document: dataset-ML
+epoch: 1000
+head: 16
+hidden_size: 256
+learning_rate: 0.0001
+mask_nonzero_ratio: 0.3
+mask_zero_ratio: 0.1
+noise_std: 10
+pca_dim: 100
+sc_data: _sc.h5ad
+seed: 3407
+st_data: _st.h5ad
