@@ -13,7 +13,7 @@ ST data for the prediction of undetected genes
 pip install -r requirement.txt
 ```
 ## Data
-All the datasets used in this paper can be downloaded from url：https://zenodo.org/records/12792074
+All the datasets used in this paper can be downloaded from url：https://zenodo.org/records/23300270
 
 ## Preprocess data
 
