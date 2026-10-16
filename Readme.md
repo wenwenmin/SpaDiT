@@ -28,6 +28,10 @@ python preprocess/data_preprocess.py --input data/raw_data.csv --output data/pro
 To train the neural network, use the following command:
 
 ```
+https://github.com/wenwenmin/SpaDiT/blob/main/SpaDiT_NewCodeNewExamples/SpaDiT_DEMO.ipynb
+```
+
+```
 python main.py --config config/train_config.json
 ```
 
